@@ -10,8 +10,7 @@ function forLoop(array){
 }
 
 function whileLoop(n) {
-  let countdown = 10
-  while(countdown > n){
+  while(n > 0){
     --n
     return 'done'
   }
