@@ -1,5 +1,5 @@
 function forLoop(array){
-  for(let i = 0; i <= 25; i++){
+  for(let i = 0; i < 25; i++){
     if(array[i] === 1){
       console.log("I am 1 strange loop")
     }
