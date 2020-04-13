@@ -15,3 +15,12 @@ function whileLoop(n) {
     return 'done'
   }
 }
+
+function incrementVariable() {
+  i = i + 1;
+  console.log("I run once regardless");
+}
+
+function doWhileLoop(n) {
+
+}
